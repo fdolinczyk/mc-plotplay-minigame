@@ -1,0 +1,14 @@
+name: Minigame
+version: '${version}'
+main: pl.warchamer12.minigame.Minigame
+api-version: 1.18
+authors: [ warchamer12 ]
+description: Team Deathmatch minigame system for PlotPlay
+website:
+  Discord: filipek#1498
+
+commands:
+  setqueue:
+  lobby:
+  setspawnpoint:
+  join:
